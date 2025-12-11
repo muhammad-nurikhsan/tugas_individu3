@@ -67,7 +67,7 @@ function App() {
           </div>
           <div className="header-text">
             <h1>AI Product Review Analyzer</h1>
-            <p>Powered by Hugging Face & Google Gemini</p>
+            <p>Muhammd Nurikhsan || 123140057 || RB</p>
           </div>
         </div>
       </header>
